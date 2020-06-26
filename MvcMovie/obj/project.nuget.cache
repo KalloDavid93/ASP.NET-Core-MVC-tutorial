@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2IhdkY+Zifpz5xn/m0xHVokI6MAIXgrzUShSxLhClP437DTBNsg57t3lvfT8T2J7tiNG8vCYttSTd8rv8yMkPw==",
+  "success": true,
+  "projectFilePath": "C:\\Codecool\\jobhunt\\ASP.NET-Core-MVC-tutorial\\MvcMovie\\MvcMovie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kallo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\kallo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
