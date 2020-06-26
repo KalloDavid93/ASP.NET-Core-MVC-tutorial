@@ -35,3 +35,4 @@ C:\Codecool\jobhunt\ASP.NET-Core-MVC-tutorial\MvcMovie\obj\Debug\netcoreapp3.0\M
 C:\Codecool\jobhunt\ASP.NET-Core-MVC-tutorial\MvcMovie\obj\Debug\netcoreapp3.0\MvcMovie.pdb
 C:\Codecool\jobhunt\ASP.NET-Core-MVC-tutorial\MvcMovie\obj\Debug\netcoreapp3.0\MvcMovie.genruntimeconfig.cache
 C:\Codecool\jobhunt\ASP.NET-Core-MVC-tutorial\MvcMovie\obj\Debug\netcoreapp3.0\MvcMovie.csproj.CopyComplete
+C:\Codecool\jobhunt\ASP.NET-Core-MVC-tutorial\MvcMovie\obj\Debug\netcoreapp3.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
